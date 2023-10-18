@@ -1,1 +1,1 @@
-# SimpliRent
+SimpliRent, Simple Long Term Rentals 
